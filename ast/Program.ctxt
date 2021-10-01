@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=proc\ p\ vars
+comment0.target=Program(ProcedureDeclaration,\ Program,\ java.util.List)
+comment0.text=\n\ Constructs\ a\ new\ Program\n\ @param\ proc\ the\ procedure\ declaration\ in\ the\ program\n\ @param\ p\ the\ possible\ program\ to\ follow\ \n
+comment1.params=statement
+comment1.target=Program(Statement)
+comment1.text=\n\ Constructs\ a\ program\n\ @param\ statement\ the\ statemtn\ in\ the\ program\n\ \n
+comment2.params=env
+comment2.target=void\ exec(Environment.Environment)
+comment2.text=\n\ Executes\ the\ program\n\ @param\ env\ the\ environment\ in\ which\ the\ variables\ are\ held\n
+comment3.params=e
+comment3.target=void\ compile(emitter.Emitter)
+comment3.text=\n\ Takes\ in\ an\ output\ file\ name\ and\ uses\ an\ Emitter\ to\ \n\ write\ the\ following\ code\ to\ that\ file.\n\ @param\ e\ the\ emitter\ to\ write\ code\ into\ the\ file\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=env
+comment0.target=int\ eval(Environment.Environment)
+comment0.text=\n\ Evaluates\ the\ expression\n\ @param\ env\ the\ environment\ that\ stores\ the\ varaibles\n\ @return\ the\ value\ of\ the\ expression\ after\ evaluating\n
+comment1.params=e
+comment1.target=void\ compile(emitter.Emitter)
+comment1.text=\n\ Uses\ emitter\ to\ write\ code\ for\ an\ expression\n\ @param\ e\ the\ emitter\ that\ emits\ to\ the\ file\n\ \n
+numComments=2

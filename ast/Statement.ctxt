@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=env
+comment0.target=void\ exec(Environment.Environment)
+comment0.text=\n\ Executes\ the\ statement\ \n\ @param\ env\ the\ environment\ that\ holds\ the\ varialbles\n
+comment1.params=e
+comment1.target=void\ compile(emitter.Emitter)
+comment1.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ a\ statement\n\ @param\ e\ the\ emitter\ that\ emits\ to\ the\ file\n
+numComments=2

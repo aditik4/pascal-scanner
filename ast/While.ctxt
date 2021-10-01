@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=condit\ state
+comment0.target=While(Condition,\ Statement)
+comment0.text=\n\ Constructs\ a\ new\ while\ statement\n\ @param\ condit\ the\ condition\ of\ the\ statment\n\ @param\ state\ the\ statement\ to\ execute\n
+comment1.params=env
+comment1.target=void\ exec(Environment.Environment)
+comment1.text=\n\ Evaluates\ the\ while\ loop\n\ @param\ env\ the\ environment\ that\ holds\ the\ variables\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ USes\ an\ emitter\ to\ write\ code\ for\ a\ while\ statement\n\ @param\ e\ the\ emitter\ that\ emits\ to\ the\ file\n
+numComments=3

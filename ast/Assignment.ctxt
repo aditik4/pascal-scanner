@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=variable\ expr
+comment0.target=Assignment(java.lang.String,\ Expression)
+comment0.text=\n\ Creates\ a\ new\ Assignment\ object\ that\ holds\ the\ name\ of\ the\n\ variable,\ and\ the\ expression\ it\ holds.\n\ @param\ variable\ the\ variable\ name\ \n\ @param\ expr\ the\ expression\ to\ set\ as\ the\ value\n
+comment1.params=env
+comment1.target=void\ exec(Environment.Environment)
+comment1.text=\n\ Sets\ a\ new\ variable\ with\ the\ value\ of\ the\ evaluated\ expression's\ result\n\ @param\ env\ the\ environment\ to\ store\ variables\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ an\ assignment\n\ @param\ e\ the\ emitter\ to\ write\ code\ to\ thee\ file\n
+numComments=3

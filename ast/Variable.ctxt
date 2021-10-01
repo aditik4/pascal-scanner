@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=vname
+comment0.target=Variable(java.lang.String)
+comment0.text=\n\ Constructor\ a\ new\ Variable\ with\ particular\ name\n\ @param\ vname\ the\ name\ of\ the\ new\ variable\n
+comment1.params=env
+comment1.target=int\ eval(Environment.Environment)
+comment1.text=\n\ Evaluates\ the\ variable,\ obtains\ information\ about\ its\ value\n\ @param\ env\ the\ environment\ to\ obtain\ information\ from\n\ @return\ the\ value\ of\ the\ particular\ variable\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ a\ variable\n\ @param\ e\ the\ emitter\ to\ put\ code\ on\ the\ file\n
+numComments=3

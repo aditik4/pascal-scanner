@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=oper\ e1\ e2
+comment0.target=Condition(java.lang.String,\ Expression,\ Expression)
+comment0.text=\n\ Constructs\ a\ condition\ that\ will\ evaluate\ a\ quantity\ relationship\n\ @param\ oper\ the\ operation\ to\ evaluate\ with\n\ @param\ e1\ the\ first\ expression\n\ @param\ e2\ the\ second\ expression\n
+comment1.params=env
+comment1.target=boolean\ eval(Environment.Environment)
+comment1.text=\n\ Evalutates\ the\ boolean\ expression\n\ @param\ env\ the\ environment\ that\ holds\ the\ variables\n\ @return\ true\ if\ the\ statement\ is\ true;\ otherwise,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ false\n
+comment2.params=e\ label
+comment2.target=void\ compile(emitter.Emitter,\ java.lang.String)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ conditionals\n\ @param\ e\ the\ emitter\ that\ writes\ to\ the\ file\n
+numComments=3

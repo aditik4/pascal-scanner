@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Environment()
+comment0.text=\n\ Constructs\ a\ new\ environment\ with\ null\ parent\n\ \n
+comment1.params=env
+comment1.target=Environment(Environment)
+comment1.text=\n\ Constructs\ an\ environment\ with\ a\ parent\n\ @param\ env\ the\ parent\ enviornment\n\ \n
+comment2.params=variable\ value
+comment2.target=void\ setVariable(java.lang.String,\ int)
+comment2.text=\n\ sets\ the\ value\ of\ the\ variable\ in\ the\ global\ environment\ if\ the\n\ \ variable\ is\ found\ in\ the\ global\ environment\ otherwise,\ creates\ in\n\ \ current\ env\n\ @param\ variable\ the\ name\ of\ the\ variable\n\ @param\ value\ the\ value\ to\ set\ it\ to\ \n
+comment3.params=variable
+comment3.target=int\ getVariable(java.lang.String)
+comment3.text=\n\ Obtains\ the\ variable's\ value\ from\ current\ environment\ or\ the\ global\n\ if\ not\ found.\n\ @param\ variable\ the\ name\ of\ the\ variable\n\ @return\ the\ value\ of\ the\ variable\n
+comment4.params=procName
+comment4.target=ast.ProcedureDeclaration\ getProcedure(java.lang.String)
+comment4.text=\n\ Retrieves\ the\ procedure\ from\ the\ parent\ environment\n\ @return\ the\ procedure\ declartion\ from\ the\ parent\n\ @param\ procName\ the\ name\ of\ the\ preoceure\n
+comment5.params=procName\ pd
+comment5.target=void\ setProcedure(java.lang.String,\ ast.ProcedureDeclaration)
+comment5.text=\n\ Sets\ the\ procedure\ into\ the\ env\n\ @param\ procName\ the\ name\ of\ the\ proc\n\ @param\ pd\ the\ procedure\ declaration\ to\ put\ in\ the\ map\n
+comment6.params=variable\ value
+comment6.target=void\ declareVariable(java.lang.String,\ int)
+comment6.text=\n\ Declares\ a\ variable\ in\ the\ current\ environment\n\ @param\ variable\ the\ name\ variable\n\ @param\ value\ the\ value\ of\ the\ variable\n
+comment7.params=
+comment7.target=java.util.HashMap\ getVarMap()
+comment7.text=\n\ Retrives\ the\ variable\ map\ in\ current\ env\n\ @return\ the\ variable\ map\n
+numComments=8

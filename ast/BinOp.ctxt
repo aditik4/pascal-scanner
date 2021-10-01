@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=oper\ e1\ e2
+comment0.target=BinOp(java.lang.String,\ Expression,\ Expression)
+comment0.text=\n\ constructs\ a\ new\ Binary\ operation\n\ @param\ oper\ the\ operation\ to\ perform\ in\ string\ form\n\ @param\ e1\ the\ first\ expression\n\ @param\ e2\ the\ second\ expression\n
+comment1.params=env
+comment1.target=int\ eval(Environment.Environment)
+comment1.text=\n\ Evaluate\ the\ binary\ operation\n\ @param\ env\ the\ environment\ to\ obtain\ variable\ values\ with\n\ @return\ the\ result\ of\ the\ operation\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ a\ binary\ operation\n\ @param\ e\ the\ emitter\ that\ writes\ to\ the\ file\n
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=statements
+comment0.target=Block(java.util.List)
+comment0.text=\nConstructs\ a\ new\ block\n@param\ statements\ the\ list\ of\ statements\ called\n
+comment1.params=env
+comment1.target=void\ exec(Environment.Environment)
+comment1.text=\n\ Executes\ each\ statment\ within\ the\ block\n\ @param\ env\ the\ environment\ that\ holds\ the\ variables\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ a\ block\n\ @param\ e\ the\ emitter\ \n
+numComments=3

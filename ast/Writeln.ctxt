@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=exp
+comment0.target=Writeln(Expression)
+comment0.text=\n\ Constructs\ a\ new\ Writeln\ object\n\ @param\ exp\ the\ expression\ to\ print\ out\n
+comment1.params=env
+comment1.target=void\ exec(Environment.Environment)
+comment1.text=\n\ Executes\ the\ Writeln\ statment\ by\ evaluating\ the\ expression\ \n\ and\ printing\ it\ out\n\ @param\ env\ the\ environment\ where\ the\ variables\ are\ stored\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ from\ a\ writeln\n\ @param\ e\ the\ emitter\n
+numComments=3

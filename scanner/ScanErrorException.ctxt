@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScanErrorException()
+comment0.text=\n\ default\ constructor\ for\ ScanErrorObjects\n
+comment1.params=reason
+comment1.target=ScanErrorException(java.lang.String)
+comment1.text=\n\ Constructor\ for\ ScanErrorObjects\ that\ includes\ a\ reason\ for\ the\ error\n\ @param\ reason\ the\ reason\ for\ exception\n
+numComments=2

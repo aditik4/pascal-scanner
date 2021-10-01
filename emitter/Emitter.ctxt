@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=outputFileName
+comment0.target=Emitter(java.lang.String)
+comment1.params=code
+comment1.target=void\ emit(java.lang.String)
+comment2.params=
+comment2.target=void\ close()
+comment3.params=reg
+comment3.target=void\ emitPush(java.lang.String)
+comment4.params=reg
+comment4.target=void\ emitPop(java.lang.String)
+comment5.params=
+comment5.target=int\ nextLabelID()
+numComments=6

@@ -1,0 +1,2 @@
+	.data
+		 nl: .asciiz "\n"

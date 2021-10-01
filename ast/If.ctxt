@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=condit\ state
+comment0.target=If(Condition,\ Statement)
+comment0.text=\n\ Constructs\ a\ new\ if\ statment\ with\ a\ condition\ and\ executing\ statment\n\ @param\ condit\ the\ statment\ to\ consider\n\ @param\ state\ the\ statment\ to\ execute\ if\ true\n
+comment1.params=env
+comment1.target=void\ exec(Environment.Environment)
+comment1.text=\n\ Executes\ the\ if\ statment\n\ @param\ env\ the\ enviornment\ that\ holds\ the\ variables\n
+comment2.params=e
+comment2.target=void\ compile(emitter.Emitter)
+comment2.text=\n\ Uses\ an\ emitter\ to\ write\ code\ for\ an\ if\ statemnet\n\ @param\ e\ the\ emitter\ that\ writes\ to\ the\ file\n
+numComments=3
